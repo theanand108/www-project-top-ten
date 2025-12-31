@@ -30,7 +30,7 @@ This issue is included in the Top 10 based on an [industry survey](https://owasp
 One strategy for determining if you have sufficient monitoring is to examine the logs following penetration testing. The testers' actions should be recorded sufficiently to understand what damages they may have inflicted.
 {%- include risk_description.html pos="right" -%}
 Most successful attacks start with vulnerability probing. Allowing such probes to continue can raise the likelihood of successful exploit to nearly 100%.<br>
-In 2016, identifying a breach took an average of 191 days – plenty of time for damage to be inflicted.
+In 2016, identifying a breach took an average of 191 days – plenty of time for damage to be inflicted, according to the [IBM/Ponemon 2017 Cost of a Data Breach Study](https://documents.ncsl.org/wwwncsl/Task-Forces/Cybersecurity-Privacy/IBM_Ponemon2017CostofDataBreachStudy.pdf).
 {%- include risk_end.html -%}
 
 {%- include t10_subsection_begin.html -%}
